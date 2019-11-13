@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WithDraw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/douban_comments_spider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/login_taobao" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sina_topic_spider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tools_python" vcs="Git" />
+    <mapping directory="D:\python\WithDraw" vcs="Git" />
+    <mapping directory="D:\python\douban_comments_spider" vcs="Git" />
+    <mapping directory="D:\python\login_taobao" vcs="Git" />
+    <mapping directory="D:\python\sina_topic_spider" vcs="Git" />
+    <mapping directory="D:\python\tools_python" vcs="Git" />
+  </component>
+</project>
