@@ -66,13 +66,26 @@ f(x) =	x + 2	(-1 <= x <= 1)
 # print("对应的等级是：", grade)
 
 # e3 输入三条边长，如果能构成三角形就计算周长和面积
-a = float(input('a = '))
-b = float(input('b = '))
-c = float(input('c = '))
-if a + b > c and a + c > b and b + c > a:
-    print('周长：%f' % (a + b + c))
-    p = (a + b + c) / 2
-    area = (p * (p - a) * (p - b) * (p - c)) ** 0.5
-    print('面积：%f' % (area))
-else:
-    print('不能构成三角形')
+# a = float(input('a = '))
+# b = float(input('b = '))
+# c = float(input('c = '))
+# if a + b > c and a + c > b and b + c > a:
+#     print('周长：%f' % (a + b + c))
+#     p = (a + b + c) / 2
+#     area = (p * (p - a) * (p - b) * (p - c)) ** 0.5
+#     print('面积：%f' % (area))
+# else:
+#     print('不能构成三角形')
+
+# e4 输入三个正整数，按从小到大的顺序排列
+# a = int(input('输入a=', ))
+# b = int(input('输入b=', ))
+# c = int(input('输入c=', ))
+#
+# if a > b:
+#     a, b = b, a
+# if a > c:
+#     a, c = c, a
+# if b > c:
+#     c, b = b, c
+# print('按从小到大的顺序:', a, b, c)
